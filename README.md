@@ -21,14 +21,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=70asunflower&theme=radical&no-frame=true&column=8" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
