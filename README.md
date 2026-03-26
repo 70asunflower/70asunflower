@@ -24,7 +24,7 @@
 ## 🏢 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/demo.gif?raw=true" width="800" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="800" />
 </p>
 
 ---
