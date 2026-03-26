@@ -15,11 +15,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=70asunflower&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="stats graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=70asunflower&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=70asunflower&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="180" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=70asunflower&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 </p>
 
 ---
