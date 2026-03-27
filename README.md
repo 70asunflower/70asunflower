@@ -12,7 +12,7 @@
 
 ---
 
-## 🏢 3D Contribution Graph
+## 📊 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" />
