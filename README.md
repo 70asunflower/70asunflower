@@ -15,5 +15,5 @@
 ## 🏢 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" width="800" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" />
 </p>
