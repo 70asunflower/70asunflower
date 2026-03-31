@@ -20,12 +20,8 @@
 
 <p align="center">
   <a href="https://blog.csdn.net/Qnesp?type=blog">
-    <table style="border-collapse:collapse;display:inline-block;margin:0 auto;">
-      <tr>
-        <td style="padding:0;"><img src="https://img.shields.io/badge/博客-0077BE?style=for-the-badge&logo=blogger&logoColor=white" /></td>
-        <td style="padding:0;"><img src="https://img.shields.io/badge/CSDN-orange?style=for-the-badge" /></td>
-      </tr>
-    </table>
+    <img src="https://img.shields.io/badge/博客-博客-0077BE?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0077BE" />
+    <img src="https://img.shields.io/badge/CSDN-CSDN-FF6A00?style=for-the-badge&labelColor=FF6A00" />
   </a>
 </p>
 
