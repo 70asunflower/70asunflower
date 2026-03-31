@@ -20,8 +20,7 @@
 
 <p align="center">
   <a href="https://blog.csdn.net/Qnesp?type=blog">
-    <img src="https://img.shields.io/badge/博客-博客-0077BE?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0077BE" />
-    <img src="https://img.shields.io/badge/CSDN-CSDN-FF6A00?style=for-the-badge&labelColor=FF6A00" />
+    <img src="https://img.shields.io/badge/博客-CSDN-orange?style=for-the-badge&logo=blogger&labelColor=%230077BE&logoColor=white" />
   </a>
 </p>
 
