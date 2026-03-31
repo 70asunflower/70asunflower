@@ -22,6 +22,9 @@
   <a href="https://blog.csdn.net/Qnesp?type=blog">
     <img src="https://img.shields.io/badge/博客-CSDN-orange?style=for-the-badge&logo=blogger&labelColor=%230077BE&logoColor=white" />
   </a>
+  <a href="https://www.xiaohongshu.com/user/profile/6156e8f5000000000202354c">
+    <img src="https://img.shields.io/badge/小红书-RED-FF2442?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
