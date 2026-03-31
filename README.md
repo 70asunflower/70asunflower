@@ -19,7 +19,10 @@
 正在探索大模型应用开发，构建智能 Agent 系统。
 
 [![CSDN](https://img.shields.io/badge/CSDN-博客-red?style=for-the-badge&logo=blogger)](https://blog.csdn.net/Qnesp?type=blog)
-<span>  — 70asunflower</span>
+
+---
+
+> 📝 Blog: [70asunflower](https://blog.csdn.net/Qnesp)
 
 ---
 
