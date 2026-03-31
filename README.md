@@ -18,6 +18,11 @@
 
 正在探索大模型应用开发，构建智能 Agent 系统。
 
+<a href="https://blog.csdn.net/Qnesp?type=blog">
+  <img src="https://img.shields.io/badge/博客-CSDN-orange?style=for-the-badge&logo=blogger" />
+  <img src="https://img.shields.io/badge/-70asunflower-555?style=for-the-badge" />
+</a>
+
 ---
 
 ## 📊 3D Contribution Graph
