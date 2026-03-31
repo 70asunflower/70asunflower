@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/小红书-70asunflower-red?style=for-the-badge&logoColor=white&labelColor=%23FF2442" />
   </a>
   <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MzUxODg1NQ==&scene=124#wechat_redirect">
-    <img src="https://img.shields.io/badge/公众号-70asunflower-green?style=for-the-badge&logo=wechat&logoColor=white" />
+    <img src="https://img.shields.io/badge/公众号-纳纬思多谱-gray?style=for-the-badge&logo=wechat&logoColor=white&labelColor=%2307C160" />
   </a>
 </p>
 
