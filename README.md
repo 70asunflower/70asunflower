@@ -18,6 +18,8 @@
 
 正在探索大模型应用开发，构建智能 Agent 系统。
 
+热爱户外运动，喜欢徒步、爬山，享受大自然的自在与宁静。闲暇时爱阅读和听博客，保持好奇心，持续学习、持续成长。
+
 <p align="center">
   <a href="https://blog.csdn.net/Qnesp?type=blog">
     <img src="https://img.shields.io/badge/CSDN-70asunflower-white?style=for-the-badge&logo=blogger&logoColor=white&labelColor=%23FF6A00" />
