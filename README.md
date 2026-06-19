@@ -30,6 +30,9 @@
   <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MzUxODg1NQ==&scene=124#wechat_redirect">
     <img src="https://img.shields.io/badge/公众号-纳纬思多谱-white?style=for-the-badge&logo=wechat&logoColor=white&labelColor=%2307C160" />
   </a>
+  <a href="https://70asunflower.github.io">
+    <img src="https://img.shields.io/badge/个人主页-70asunflower-white?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=%23222222" />
+  </a>
 </p>
 
 ---
