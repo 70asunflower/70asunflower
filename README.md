@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/70asunflower/70asunflower">
-    <img src="https://readme-typing-svg.demolab.com?lines=OpenClaw+Developer;AI+Enthusiast;Always+Learning&center=true&width=400&height=50&color=58a6ff" />
+    <img src="https://readme-typing-svg.demolab.com?lines=From+LLM+to+Silicon;Building+AI+Agents;OpenClaw+Developer;Always+Learning&center=true&width=420&height=50&color=58a6ff" />
   </a>
 </p>
 
