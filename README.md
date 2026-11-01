@@ -41,12 +41,14 @@
 
 ## 🚀 主要项目
 
+<!-- PROJECTS:START -->
 | 项目 | 介绍 |
 | :--- | :--- |
-| [**ai-learning-journey**](https://github.com/70asunflower/ai-learning-journey) | 📚 **AI 学习路径** — LLM / AI Infra / Agent 精选资源与笔记，每条带中文摘要。配技术栈树与[在线索引](https://70asunflower.github.io/ai-learning-journey/)，支持标签筛选、页内读全文 |
-| [**ic-chip-design-learning**](https://github.com/70asunflower/ic-chip-design-learning) | 🔬 **芯片设计学习路径** — 从 RTL 到流片：教材 / 课程 / 开源项目 / 工艺资料。技术栈树会标出还没覆盖的技能，方便知道下一步补什么 |
-| [**ChatShot**](https://github.com/70asunflower/ChatShot) | 📸 **Chrome 扩展** — 把 AI 对话导出成好看的截图，支持选区、合并、拼接，兼容 DeepSeek / ChatGPT / Gemini 等 |
-| [**70asunflower-skills**](https://github.com/70asunflower/70asunflower-skills) | 🧰 **跨 Agent 技能库** — 一套 skill 供 Claude / Codex / ZCode / Gemini / WorkBuddy 共用：junction 同步、一致性检查、提交闸门 |
+| [**ai-learning-journey**](https://github.com/70asunflower/ai-learning-journey) | 📚 AI 学习路径 — 精选 LLM / AI Infra / Agent 资源与笔记，每条带中文摘要。配技术栈树 + 在线索引（标签筛选 / 页内阅读） |
+| [**ic-chip-design-learning**](https://github.com/70asunflower/ic-chip-design-learning) | 🔬 芯片设计学习路径 — 从 RTL 到流片，精选教材 / 课程 / 开源项目 / 工艺资料。配技术栈树 + 在线索引，标出还没覆盖的技能 |
+| [**ChatShot**](https://github.com/70asunflower/ChatShot) | 📸 Chrome extension to capture AI chat responses as beautiful screenshots — select, merge, stitch blocks. Supports DeepSeek, ChatGPT, Gemini & 6 more. |
+| [**70asunflower-skills**](https://github.com/70asunflower/70asunflower-skills) | 🧠 个人经验与工作流的 skills 沉淀 —— 自建技能，多个 agent 共享同一份。核心是「单一真相源 + 目录联结」的共享设计：不复制、不漂移 |
+<!-- PROJECTS:END -->
 
 ## 📊 3D Contribution Graph
 
